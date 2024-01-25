@@ -1,9 +1,4 @@
 ## Advanced Lane Finding
-[![Udacity - Self-Driving Car NanoDegree](https://s3.amazonaws.com/udacity-sdc/github/shield-carnd.svg)](http://www.udacity.com/drive)
-
-The Project
----
-
 The goals / steps of this project are the following:
 
 * Compute the camera calibration matrix and distortion coefficients given a set of chessboard images.
@@ -21,7 +16,7 @@ The `challenge_video.mp4` video is an extra (and optional) challenge for you if 
 
 If you're feeling ambitious (again, totally optional though), don't stop there!  We encourage you to go out and take video of your own, calibrate your camera and show us how you would implement this project from scratch!
 
-## Usage:
+
 
 ### 1. Set up the environment 
 `conda env create -f environment.yml`
